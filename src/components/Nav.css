@@ -30,3 +30,15 @@
   width: 30px;
   object-fit: contain;
 }
+
+.nav__input{
+  position:fixed;
+  left: 50%;
+  height: 30px;
+  text-align: center;
+  transform: translate(-50%, 0);
+  background-color: #000000b4;
+  border-radius: 5px;
+  color:#fff;
+  border:none;
+}
